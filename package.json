@@ -1,0 +1,27 @@
+{
+  "name": "mongoexport",
+  "version": "1.0.0",
+  "description": "mongoexport can be used to export whole mongo database ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deep1144/MongoExport.git"
+  },
+  "keywords": [
+    "mongo",
+    "database",
+    "export",
+    "mongodb",
+    "node",
+    "express"
+  ],
+  "author": "Deep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deep1144/MongoExport/issues"
+  },
+  "homepage": "https://github.com/Deep1144/MongoExport#readme"
+}
