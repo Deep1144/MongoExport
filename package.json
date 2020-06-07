@@ -1,5 +1,5 @@
 {
-  "name": "mongoexport",
+  "name": "mongoexportalldatabase",
   "version": "1.0.0",
   "description": "mongoexport can be used to export whole mongo database ",
   "main": "index.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Deep1144/MongoExport/issues"
   },
-  "homepage": "https://github.com/Deep1144/MongoExport#readme"
+  "homepage": "https://github.com/Deep1144/MongoExport#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.0"
+  }
 }
