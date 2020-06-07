@@ -1,6 +1,6 @@
 {
-  "name": "mongoexportalldatabase",
-  "version": "1.0.0",
+  "name": "exportmongodatabase",
+  "version": "1.0.1",
   "description": "mongoexport can be used to export whole mongo database ",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deep1144/MongoExport.git"
+    "url": "git+https://github.com/Deep1144/exportmongodatabase.git"
   },
   "keywords": [
+    "csv",
     "mongo",
     "database",
     "export",
@@ -21,9 +22,9 @@
   "author": "Deep",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Deep1144/MongoExport/issues"
+    "url": "https://github.com/Deep1144/exportmongodatabase/issues"
   },
-  "homepage": "https://github.com/Deep1144/MongoExport#readme",
+  "homepage": "https://github.com/Deep1144/exportmongodatabase#readme",
   "dependencies": {
     "fast-csv": "^4.3.0"
   }

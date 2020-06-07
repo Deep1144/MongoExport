@@ -49,7 +49,6 @@ let exportDataBase = function (dburl) {
 		db.close();
 	  });
   });
-
 };
 
 module.exports.exportDataBase = exportDataBase;
