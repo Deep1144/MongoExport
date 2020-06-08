@@ -1,6 +1,6 @@
 {
   "name": "exportmongodatabase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mongoexport can be used to export whole mongo database ",
   "main": "index.js",
   "scripts": {
